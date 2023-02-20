@@ -1,6 +1,6 @@
 ## Olá eu sou o Mateus Zaparoli
 - 🔭 Busco trabalhar com Backend
-- 🌱 Estudando Python & JS
+- 🌱 Estudando Python
 - 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
