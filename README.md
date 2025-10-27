@@ -7,7 +7,7 @@
 ### 🧠 About Me
 
 🎓 **Computer Science undergraduate at UFMG (Federal University of Minas Gerais)**  
-🏢 Currently working at a **software company** that develops a **low-code platform**  
+🏢 Currently working at **[SYDLE](https://www.sydle.com/br/)**, a **software company** that develops a **low-code platform**  
 🤖 Researcher and enthusiast in **Artificial Intelligence**, focusing on **Responsible AI**, **AI evaluation in education (ENEM exams)**  
 🌍 Developer of **[Aryon](https://aryon.shinyapps.io/aryon/)** — a platform for **indigenous language preservation**  
 
