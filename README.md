@@ -1,6 +1,6 @@
 <!-- Header / Banner -->
 <h1 align="center">👋 Hi there, I'm <a href="https://github.com/mateuszaparoli">Mateus Zaparoli</a></h1>
-<h3 align="center">💡 Computer Scientist | Focused on Responsible AI & Governance</h3>
+<h3 align="center">💡 Undergraduate Computer Scientist</h3>
 
 ---
 
